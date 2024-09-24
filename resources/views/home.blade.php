@@ -9,7 +9,7 @@
 <body>
     <div class="container">
         <div class="row">
-            <h1>Home :  World of Laravel </h1>
+            <h1>{{ $welcome }} </h1>
 
         </div>
     </div>
