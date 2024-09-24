@@ -7,6 +7,12 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <div class="container">
+        <div class="row">
+            <h1>Home :  World of Laravel </h1>
+
+        </div>
+    </div>
+
 </body>
 </html>
